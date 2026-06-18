@@ -44,9 +44,9 @@ header h1 {
 }
 
 header ul {
-    list-style: none;
     display: flex;
-    gap: 2rem;
+    flex-direction: row;
+    gap: 12px;
 }
 
 header a {
